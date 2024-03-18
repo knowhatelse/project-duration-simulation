@@ -44,6 +44,9 @@ When using the program, you need to input several pieces of data: </br>
 
 If you have any ideas on how to further expand this simulation, make it even more realistic, or if you find any errors/inconsistencies in the code and the simulation model itself, feel free to create a pull request with your changes, and you will be added to the list of contributors. </br>
 
+## **License**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## **Contact**
 
 You can contact me via email: kenan.kajtazovic.01@gmail.com. </br>
