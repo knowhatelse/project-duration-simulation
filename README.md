@@ -6,7 +6,7 @@ This program deals with simulation aimed at determining the required time for th
 
 The simulation uses the PERT (Program Evaluation and Review Technique) model to calculate the required time for project completion. Additionally, alongside the PERT model, other relevant data is utilized to make the simulation as realistic as possible. </br>
 
-Within this simulation, a Monte Carlo simulation is also employed, aiming to determine variations based on a set of data and to establish the general time required for completing a project falling into the previously mentioned category </br>
+Within this simulation, a Monte Carlo simulation is also employed, aiming to determine variations based on a set of data and to establish the general time required for completing a project falling into the previously mentioned category. </br>
 
 Randomly generated data within intervals defined by the user is utilized throughout the simulation. </br>
 
